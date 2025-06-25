@@ -1,0 +1,6 @@
+number_publisher_node:
+  ros__parameters:
+    number1: 15
+    number2: 25
+    topic_name: "sum_topic"
+    publish_rate: 2.0 
