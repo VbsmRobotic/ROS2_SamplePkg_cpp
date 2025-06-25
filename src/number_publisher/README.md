@@ -72,8 +72,8 @@ Edit the `config/numbers.yaml` file to modify:
 ## Author
 
 **Your Name**  
-Email: your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)
+Email: vahidbehtaji2013@gmail.com  
+GitHub: [VbsmRobotic](https://github.com/VbsmRobotic)
 
 ## License
 

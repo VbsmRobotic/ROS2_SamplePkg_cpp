@@ -7,8 +7,8 @@
   <description>A simple ROS2 C++ package that publishes the sum of two integers loaded from a YAML file</description>
   <license>Apache License 2.0</license>
 
-  <author email="your.email@example.com">Your Name</author>
-  <maintainer email="your.email@example.com">Your Name</maintainer>
+  <author email="vahidbehtaji2013@gmail.com">Your Name</author>
+  <maintainer email="vahidbehtaji2013@gmail.com">Your Name</maintainer>
 
   <url type="website">https://github.com/yourusername/number_publisher</url>
   <url type="repository">https://github.com/yourusername/number_publisher</url>

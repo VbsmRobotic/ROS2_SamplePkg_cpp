@@ -1,3 +1,4 @@
+```bash
 sample_cpp/
 └── src/
     └── number_publisher/
@@ -14,3 +15,4 @@ sample_cpp/
         ├── CMakeLists.txt
         ├── package.xml
         └── README.md
+```
