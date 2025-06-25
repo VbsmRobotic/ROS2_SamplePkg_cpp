@@ -10,6 +10,7 @@ This package contains:
 - **Launch**: Python launch file to start both nodes simultaneously
 
 ## Package Features
+```bash
 ✅ Object-oriented C++ implementation with separate classes for publisher and subscriber
 ✅ YAML configuration for loading two integers (15, 25) and other parameters
 ✅ Configurable topic name as a string parameter (sum_topic)
@@ -17,7 +18,7 @@ This package contains:
 ✅ Complete documentation with tables for publisher and subscriber information
 ✅ Launch file to run both nodes together
 ✅ Proper ROS2 structure following best practices
-
+```
 ## Publisher Information
 
 | Field | Value |
